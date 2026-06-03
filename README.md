@@ -154,37 +154,42 @@ Measurable Operational Value
 ### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js" />
-
-<img src="https://img.shields.io/badge/SQL-Data_Query_Language-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,mysql" />
 </p>
 
 **Focus Areas:**  
 Backend Development · Data Processing · Enterprise Systems · Automation
 
+---
+
 ### Frameworks & Application Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=dotnet,spring,flask,django,nodejs" />
-
-<img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
+<img height="48" src="https://cdn.simpleicons.org/wechat/07C160" />
 </p>
 
 **Focus Areas:**  
 Enterprise Applications · Web Systems · API Development · Mini Programs
 
-### Databases & Data Storage
+---
+
+### Databases & Data Engineering
 
 <p>
-<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+
+<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
 </p>
 
 **Focus Areas:**  
-SQL Development · Data Modeling · Data Integration · Analytics Support
+SQL Development · Data Modeling · ETL · Data Integration · Analytics Support
+
+---
 
 ### Cloud & Engineering Tools
 
@@ -193,24 +198,26 @@ SQL Development · Data Modeling · Data Integration · Analytics Support
 </p>
 
 **Focus Areas:**  
-Cloud Architecture · Deployment Support · Production Validation
+Cloud Architecture · Production Validation · Deployment Support
+
+---
 
 ### AI / Data Engineering
 
 <p>
-<img src="https://img.shields.io/badge/Machine_Learning-Applied-orange?style=for-the-badge" />
 
-<img src="https://img.shields.io/badge/LLM-AI_Assisted_Development-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Machine_Learning-Applied-orange?style=flat-square" />
 
-<img src="https://img.shields.io/badge/Computer_Vision-Interactive_AI-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/LLM-AI_Assisted-blueviolet?style=flat-square" />
 
-<img src="https://img.shields.io/badge/Data_Engineering-Python_&_SQL-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision-CV-blue?style=flat-square" />
 
-<img src="https://img.shields.io/badge/Industrial_AI-Manufacturing-important?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Industrial_AI-Manufacturing-success?style=flat-square" />
+
 </p>
 
 **Focus Areas:**  
-Applied AI · Predictive Analytics · Data Pipelines · Intelligent Systems
+Applied AI · Predictive Analytics · Intelligent Systems
 
 ### Interests & Emerging Technologies
 
