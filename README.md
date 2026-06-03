@@ -153,7 +153,6 @@ Measurable Operational Value
 
 ---
 
-```md
 ## Technical Stack
 
 ### Programming Languages
@@ -236,8 +235,6 @@ Applied AI · Predictive Analytics · Data Pipelines · Intelligent Systems
 <img src="https://img.shields.io/badge/Industrial_AI-Manufacturing-important?style=for-the-badge" />
 </p>
 
----
-
 ## Certifications
 
 ### Cloud & AI Certifications
@@ -268,15 +265,13 @@ Applied AI · Predictive Analytics · Data Pipelines · Intelligent Systems
 <img src="https://img.shields.io/badge/Siemens-PreSales_Associate_2025-006666?style=for-the-badge&logo=siemens&logoColor=white" />
 </a>
 
----
 
 ### Currently Pursuing
 
-📖 **AWS Machine Learning Engineer – Associate**
-📖 **PTC Codebeamer Foundations / Presales**
-📖 **Advanced AI / Industrial AI Engineering**
+📖 AWS Machine Learning Engineer – Associate
+📖 PTC Codebeamer Foundations / Presales
+📖 Advanced AI / Industrial AI Engineering
 
----
 
 ## Languages
 
