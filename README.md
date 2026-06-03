@@ -11,7 +11,6 @@
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wang-yifan-862b89390)
-![Profile Views](https://komarev.com/ghpvc/?username=frankwyf&style=for-the-badge&color=blueviolet)
 
 </div>
 
@@ -25,7 +24,6 @@ Graduated with a **joint degree in Computer Science** from the **University of L
 
 🏭 **Semiconductor Manufacturing**  
 💰 **Financial & Accounting Systems**  
-🛡 **Functional Safety (ISO 26262)**  
 ☁️ **Cloud Validation & Data Engineering**  
 🤖 **Applied AI & Predictive Analytics**
 
@@ -155,25 +153,78 @@ Measurable Operational Value
 
 ---
 
+```md
 ## Technical Stack
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cs,cpp,java,js" />
+<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js" />
+
+<img src="https://img.shields.io/badge/SQL-Data_Query_Language-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Enterprise & Backend
+**Focus Areas:**  
+Backend Development · Data Processing · Enterprise Systems · Automation
+
+---
+
+### Frameworks & Application Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=dotnet,nodejs,mysql,postgres,git,docker" />
+<img src="https://skillicons.dev/icons?i=dotnet,spring,flask,django,nodejs" />
+
+<img src="https://img.shields.io/badge/WeChat_Mini_Program-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
 </p>
 
-### Cloud
+**Focus Areas:**  
+Enterprise Applications · Web Systems · API Development · Mini Programs
+
+---
+
+### Databases & Data Storage
 
 <p>
-<img src="https://skillicons.dev/icons?i=aws,azure" />
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 </p>
+
+**Focus Areas:**  
+SQL Development · Data Modeling · Data Integration · Analytics Support
+
+---
+
+### Cloud & Engineering Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,git,docker" />
+</p>
+
+**Focus Areas:**  
+Cloud Architecture · Deployment Support · Production Validation
+
+---
+
+### AI / Data Engineering
+
+<p>
+<img src="https://img.shields.io/badge/Machine_Learning-Applied-orange?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/LLM-AI_Assisted_Development-blueviolet?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Computer_Vision-Interactive_AI-blue?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Data_Engineering-Python_&_SQL-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/Industrial_AI-Manufacturing-important?style=for-the-badge" />
+</p>
+
+**Focus Areas:**  
+Applied AI · Predictive Analytics · Data Pipelines · Intelligent Systems
+```
 
 ### Interests & Emerging Technologies
 
@@ -189,16 +240,41 @@ Measurable Operational Value
 
 ## Certifications
 
-### Professional Certifications
+### Cloud & AI Certifications
 
-🏅 AWS Certified Solutions Architect – Associate  
-🏅 AWS AI Practitioner  
-🏅 Siemens Opcenter APS Presales Certification  
-🏅 PTC Codebeamer Foundations / Presales
+<a href="https://www.credly.com/badges/05f02bae-6f15-447b-b8bf-e0cce33f3cd9/linked_in_profile">
+<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/badges/9e54a74c-ee6a-407b-aad6-c4d19816e394/linked_in_profile">
+<img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
+### Siemens Digital Industries Software Certifications
+
+<a href="https://www.credly.com/badges/1d5d64ad-e3ed-48fc-90ff-f9c03ee1298f/public_url" target="_blank">
+<img src="https://img.shields.io/badge/Siemens-Sales_Professional_2026-009999?style=for-the-badge&logo=siemens&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/badges/a8695b16-f689-474f-8644-2492748399bb/public_url" target="_blank">
+<img src="https://img.shields.io/badge/Siemens-Sales_Associate_2026-008080?style=for-the-badge&logo=siemens&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/badges/a7aafb74-7015-4d9b-913d-eb2da3a78ddb/public_url" target="_blank">
+<img src="https://img.shields.io/badge/Siemens-PreSales_Associate_2026-007777?style=for-the-badge&logo=siemens&logoColor=white" />
+</a>
+
+<a href="https://www.credly.com/badges/5b1ab65c-9a3b-415d-9ded-c96c5f5ade14/public_url" target="_blank">
+<img src="https://img.shields.io/badge/Siemens-PreSales_Associate_2025-006666?style=for-the-badge&logo=siemens&logoColor=white" />
+</a>
+
+---
 
 ### Currently Pursuing
 
-📖 AWS Machine Learning Engineer – Associate
+📖 **AWS Machine Learning Engineer – Associate**
+📖 **PTC Codebeamer Foundations / Presales**
+📖 **Advanced AI / Industrial AI Engineering**
 
 ---
 
@@ -213,10 +289,6 @@ Measurable Operational Value
 ## GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=frankwyf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frankwyf&layout=compact&theme=tokyonight&hide_border=true" />
 
 <br>
 
