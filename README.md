@@ -101,7 +101,6 @@ I am particularly interested in the intersection of:
 - Cloud deployment support
 - Enterprise environment testing
 
----
 
 ## Selected Engineering Highlights
 
@@ -125,7 +124,6 @@ Supported verification of enterprise accounting systems through **Python-powered
 
 Worked on AI-powered systems involving **computer vision, motion sensing, and interactive analytics**, transforming raw data into actionable insights.
 
----
 
 ## Engineering DNA
 
@@ -151,8 +149,6 @@ Reliable Software Systems
 Measurable Operational Value
 ```
 
----
-
 ## Technical Stack
 
 ### Programming Languages
@@ -166,8 +162,6 @@ Measurable Operational Value
 **Focus Areas:**  
 Backend Development · Data Processing · Enterprise Systems · Automation
 
----
-
 ### Frameworks & Application Development
 
 <p>
@@ -178,8 +172,6 @@ Backend Development · Data Processing · Enterprise Systems · Automation
 
 **Focus Areas:**  
 Enterprise Applications · Web Systems · API Development · Mini Programs
-
----
 
 ### Databases & Data Storage
 
@@ -194,8 +186,6 @@ Enterprise Applications · Web Systems · API Development · Mini Programs
 **Focus Areas:**  
 SQL Development · Data Modeling · Data Integration · Analytics Support
 
----
-
 ### Cloud & Engineering Tools
 
 <p>
@@ -204,8 +194,6 @@ SQL Development · Data Modeling · Data Integration · Analytics Support
 
 **Focus Areas:**  
 Cloud Architecture · Deployment Support · Production Validation
-
----
 
 ### AI / Data Engineering
 
@@ -223,7 +211,6 @@ Cloud Architecture · Deployment Support · Production Validation
 
 **Focus Areas:**  
 Applied AI · Predictive Analytics · Data Pipelines · Intelligent Systems
-```
 
 ### Interests & Emerging Technologies
 
@@ -279,7 +266,6 @@ Applied AI · Predictive Analytics · Data Pipelines · Intelligent Systems
 🇬🇧 English — Professional working proficiency  
 🇯🇵 Japanese — Business communication level (JLPT N2)
 
----
 
 ## GitHub Analytics
 
@@ -291,8 +277,6 @@ Applied AI · Predictive Analytics · Data Pipelines · Intelligent Systems
 
 </div>
 
----
-
 ## Current Focus
 
 Currently exploring and building in:
@@ -303,8 +287,6 @@ Currently exploring and building in:
 - LLM-assisted Development
 - Intelligent Enterprise Systems
 
----
-
 ## Connect With Me
 
 <div align="center">
@@ -312,8 +294,6 @@ Currently exploring and building in:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wang-yifan-862b89390)
 
 </div>
-
----
 
 <div align="center">
 
