@@ -1,10 +1,8 @@
 <div align="center">
 
-# Frank Wang
+# Yifan/Frank Wang
 
-### Engineering the Future of Industrial Intelligence
-
-**Software Engineer · Industrial AI · Enterprise Systems · Data Engineering**
+**Software Engineer · Applied AI in real business· Enterprise Systems · Data Engineering**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Software+Engineer;Industrial+AI+%26+Data+Engineer;Enterprise+Systems+Builder;Manufacturing+%7C+Finance+%7C+Cloud;Python+%7C+.NET+%7C+AWS+%7C+AI;Bridging+Enterprise+Systems+with+Applied+AI" />
 
