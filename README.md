@@ -8,7 +8,7 @@
 
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wang-yifan-862b89390)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yifan-wang-862b89390)
 
 </div>
 
@@ -296,7 +296,7 @@ Currently exploring and building in:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/wang-yifan-862b89390)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yifan-wang-862b89390)
 
 </div>
 
