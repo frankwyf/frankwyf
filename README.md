@@ -1,8 +1,8 @@
 <div align="center">
 
-# Yifan/Frank Wang
+# Yifan Wang (Frank)
 
-**Software Engineer · Applied AI in real business· Enterprise Systems · Data Engineering**
+**Software Engineer · Applied AI · Data Engineering · Enterprise Systems**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Software+Engineer;Industrial+AI+%26+Data+Engineer;Enterprise+Systems+Builder;Manufacturing+%7C+Finance+%7C+Cloud;Python+%7C+.NET+%7C+AWS+%7C+AI;Bridging+Enterprise+Systems+with+Applied+AI" />
 
@@ -14,18 +14,26 @@
 
 ---
 
-## Who I Am
+## About Me
 
-I am a software engineer with hands-on experience across **manufacturing systems, enterprise IT, industrial data engineering, and applied AI**.
+I am a software engineer building at the intersection of enterprise systems, operational data, and applied AI.
 
-Graduated with a **joint degree in Computer Science** from the **University of Leeds 🇬🇧** and **Southwest Jiaotong University 🇨🇳**, I have worked on projects spanning:
+My experience spans C#/.NET application development, Python/SQL data integration, ETL and production validation, semiconductor manufacturing systems, financial workflows, and applied-AI projects. I focus on turning operational requirements and imperfect data into reliable, testable software.
 
-🏭 **Semiconductor Manufacturing**  
-💰 **Financial & Accounting Systems**  
-☁️ **Cloud Validation & Data Engineering**  
-🤖 **Applied AI & Predictive Analytics**
+I am currently developing toward Applied AI, Data Engineering, and Forward Deployed Engineering roles—especially work that connects customer problems, enterprise data, and production deployment across FinTech, enterprise SaaS, mobility, industrial systems, and other real-world domains.
 
-My background combines **traditional enterprise engineering** with a growing focus on **AI-driven systems**, enabling me to bridge operational software with intelligent solutions.
+- Current base: Shanghai; open to employer-supported international relocation
+- Languages: Chinese (native), English (professional), Japanese (JLPT N2 / business communication)
+- Certifications: AWS Solutions Architect – Associate, AWS AI Practitioner
+
+## Engineering Focus
+
+`Enterprise Software → Industrial Systems → Data Engineering → Applied AI`
+
+- **Enterprise Engineering:** C#/.NET, Python, Java, system integration, testing
+- **Data Engineering:** SQL, ETL, validation, multithreaded processing, data pipelines
+- **Applied AI:** explainable modeling, computer vision, RAG/evaluation roadmap
+- **Cloud & Delivery:** AWS, Azure validation, Docker, GitHub Actions, documentation
 
 ---
 
