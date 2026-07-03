@@ -46,31 +46,29 @@ I enjoy building software that is:
 ✔ **Scalable** — designed with long-term usability in mind  
 ✔ **Intelligent** — enhanced by AI where it creates real value
 
+## Selected Projects
+
+### Applied AI Decision Workbench — Planned Flagship
+An open-source, human-in-the-loop investigation and decision-support platform combining validated data ingestion, explainable analytics, grounded retrieval, evaluation, and observable deployment. The first scenario will use synthetic FinTech risk data or industrial operations data after scope selection.
+
+### [YOLO Region Mapping](https://github.com/frankwyf/yolo-heatmap)
+Region-aware computer-vision analytics with polygon zones, coordinate normalization, and machine-readable event outputs.
+
+### [Heat Simulation & Optimization](https://github.com/frankwyf/heat_simulation)
+Reproducible Python simulation workflows with Streamlit, GA/PSO/SA benchmarks, structured artifacts, tests, CI, and release tooling.
+
+### [Python Search & Data Tooling](https://github.com/frankwyf/web_crawling)
+Crawler, inverted-index search, API, web interface, analytics, exports, logging, and regression tests.
+
+### [Gym Product Modernization](https://github.com/frankwyf/Gym_Product)
+Multi-client business application spanning Spring Boot, Vue, and WeChat Mini Program modules, modernized with tests, CI, environment templates, and build verification.
+
+### [Qt Responsive Layout](https://github.com/frankwyf/qt-responsive-layout)
+A C++17 responsive-layout engine for Qt Widgets, demonstrating native application architecture and reusable component design.
+
 My engineering philosophy:
 
 > **Technology should not only be innovative — it should be usable, dependable, and capable of creating measurable business impact.**
-
----
-
-## Professional Journey
-
-```text
-Enterprise Software Engineering
-                ↓
-Industrial Systems & Manufacturing
-                ↓
-Data Integration & Automation
-                ↓
-Applied AI & Intelligent Systems
-```
-
-I am particularly interested in the intersection of:
-
-<div align="center">
-
-# AI × Data × Industry
-
-</div>
 
 ---
 
@@ -106,54 +104,6 @@ I am particularly interested in the intersection of:
 - Azure production validation
 - Cloud deployment support
 - Enterprise environment testing
-
-
-## Selected Engineering Highlights
-
-### Semiconductor Manufacturing Systems
-
-Developed and tested **.NET Framework-based manufacturing systems** for semiconductor production data monitoring, contributing to system reliability and operational visibility.
-
-### B2B Credit Scoring (Project Lead)
-
-Led the development of a **scorecard-based credit risk model**, leveraging enterprise financial and transactional data to support overdue risk prediction and credit decision-making.
-
-### Industrial Data Pipelines
-
-Built **Python-based multithreaded ETL solutions** for BOM data integration from PLM systems into SQL Server, including validation in Azure production environments.
-
-### Financial System Verification
-
-Supported verification of enterprise accounting systems through **Python-powered data extraction and journal validation**, including foreign currency accounting workflows.
-
-### Applied AI & Interactive Systems
-
-Worked on AI-powered systems involving **computer vision, motion sensing, and interactive analytics**, transforming raw data into actionable insights.
-
-
-## Engineering DNA
-
-I enjoy working at the intersection of:
-
-```text
-Software Engineering
-        +
-Data Engineering
-        +
-Applied AI
-        +
-Real-World Industry
-```
-
-What motivates me most is transforming:
-
-```text
-Complex Business Problems
-            ↓
-Reliable Software Systems
-            ↓
-Measurable Operational Value
-```
 
 ## Technical Stack
 
