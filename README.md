@@ -48,7 +48,7 @@ I enjoy building software that is:
 
 ## Selected Projects
 
-### Applied AI Decision Workbench — Planned Flagship
+### Applied AI Decision Workbench — Planned Flagship（IN DESIGN）
 An open-source, human-in-the-loop investigation and decision-support platform combining validated data ingestion, explainable analytics, grounded retrieval, evaluation, and observable deployment. The first scenario will use synthetic FinTech risk data or industrial operations data after scope selection.
 
 ### [YOLO Region Mapping](https://github.com/frankwyf/yolo-heatmap)
