@@ -4,11 +4,12 @@
 
 **Software Engineer · Applied AI · Data Engineering · Enterprise Systems**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Software+Engineer;Industrial+AI+%26+Data+Engineer;Enterprise+Systems+Builder;Manufacturing+%7C+Finance+%7C+Cloud;Python+%7C+.NET+%7C+AWS+%7C+AI;Bridging+Enterprise+Systems+with+Applied+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Software+%26+Data+Engineer;Applied+AI+%26+Data+Engineering;Enterprise+Systems+Builder;Finance+%7C+Operations+%7C+Cloud;Python+%7C+.NET+%7C+AWS+%7C+AI;Bridging+Enterprise+Systems+with+Applied+AI" />
 
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yifan-wang-862b89390)
+[![Portfolio](https://img.shields.io/badge/Portfolio-frankwyf.github.io-111827?style=for-the-badge&logo=astro&logoColor=white)](https://frankwyf.github.io/)
 
 </div>
 
@@ -20,19 +21,21 @@ I am a software engineer building at the intersection of enterprise systems, ope
 
 My experience spans C#/.NET application development, Python/SQL data integration, ETL and production validation, semiconductor manufacturing systems, financial workflows, and applied-AI projects. I focus on turning operational requirements and imperfect data into reliable, testable software.
 
-I am currently developing toward Applied AI, Data Engineering, and Forward Deployed Engineering roles—especially work that connects customer problems, enterprise data, and production deployment across FinTech, enterprise SaaS, mobility, industrial systems, and other real-world domains.
+In my current role at DENTSU SOKEN SHANGHAI, I am deliberately broadening from enterprise software delivery toward AI- and data-oriented engineering. I am combining that internal career development with hands-on portfolio work in applied AI, credit data, and reliable operational systems.
+
+I am developing toward Applied AI, Data Engineering, AI integration, backend, and Forward Deployed Engineering roles—especially work that connects customer problems, enterprise data, and production deployment across FinTech, enterprise SaaS, mobility, industrial systems, and other real-world domains.
 
 - Current base: Shanghai; open to employer-supported international relocation
 - Languages: Chinese (native), English (professional), Japanese (JLPT N2 / business communication)
-- Certifications: AWS Solutions Architect – Associate, AWS AI Practitioner
+- Certifications: AWS Machine Learning Engineer – Associate, AWS Solutions Architect – Associate, AWS AI Practitioner
 
 ## Engineering Focus
 
-`Enterprise Software → Industrial Systems → Data Engineering → Applied AI`
+`Enterprise Software → Data Integration → Data Engineering → Applied AI`
 
 - **Enterprise Engineering:** C#/.NET, Python, Java, system integration, testing
 - **Data Engineering:** SQL, ETL, validation, multithreaded processing, data pipelines
-- **Applied AI:** explainable modeling, computer vision, RAG/evaluation roadmap
+- **Applied AI:** explainable modeling, grounded retrieval, controlled tools, evaluation
 - **Cloud & Delivery:** AWS, Azure validation, Docker, GitHub Actions, documentation
 
 ---
@@ -48,8 +51,11 @@ I enjoy building software that is:
 
 ## Selected Projects
 
-### Applied AI Decision Workbench — Planned Flagship（IN DESIGN）
-An open-source, human-in-the-loop investigation and decision-support platform combining validated data ingestion, explainable analytics, grounded retrieval, evaluation, and observable deployment. The first scenario will use synthetic FinTech risk data or industrial operations data after scope selection.
+### [AI Revenue & Credit Operations](https://frankwyf.github.io/projects/ai-revenue-credit-operations/)
+Private-source case study for a human-in-the-loop operations platform combining validated data ingestion, deterministic financial logic, grounded retrieval, controlled tools, evaluation, and audit-friendly decisions.
+
+### [OpenScorecard / Company Credit Score](https://frankwyf.github.io/projects/openscorecard/)
+Private-source case study for explainable B2B credit-risk modeling, synthetic portfolio evaluation, leakage controls, calibration, stability analysis, and decision governance.
 
 ### [YOLO Region Mapping](https://github.com/frankwyf/yolo-heatmap)
 Region-aware computer-vision analytics with polygon zones, coordinate normalization, and machine-readable event outputs.
@@ -197,6 +203,10 @@ Applied AI · Predictive Analytics · Intelligent Systems
 <img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </a>
 
+<a href="https://www.credly.com/badges/cd7e54df-a341-4691-aaab-d9d2554d5996/linked_in">
+<img src="https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</a>
+
 ### Siemens Digital Industries Software Certifications
 
 <a href="https://www.credly.com/badges/1d5d64ad-e3ed-48fc-90ff-f9c03ee1298f/public_url" target="_blank">
@@ -218,7 +228,6 @@ Applied AI · Predictive Analytics · Intelligent Systems
 
 ### Currently Pursuing
 
-📖 AWS Machine Learning Engineer – Associate
 📖 PTC Codebeamer Foundations / Presales
 📖 Advanced AI / Industrial AI Engineering
 
@@ -245,9 +254,9 @@ Applied AI · Predictive Analytics · Intelligent Systems
 Currently exploring and building in:
 
 - Applied AI & Machine Learning
-- Industrial AI Systems
+- AI & Data Engineering
 - Data Engineering & Automation
-- LLM-assisted Development
+- LLM-assisted Development and Evaluation
 - Intelligent Enterprise Systems
 
 ## Connect With Me
@@ -255,6 +264,7 @@ Currently exploring and building in:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yifan-wang-862b89390)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Read+the+case+studies-111827?style=for-the-badge&logo=astro&logoColor=white)](https://frankwyf.github.io/)
 
 </div>
 
