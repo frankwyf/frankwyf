@@ -2,274 +2,95 @@
 
 # Yifan Wang (Frank)
 
-**Software Engineer · Applied AI · Data Engineering · Enterprise Systems**
+**Software Engineer · Data Engineering · Applied AI**
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=900&center=true&vCenter=true&width=950&lines=Software+%26+Data+Engineer;Applied+AI+%26+Data+Engineering;Enterprise+Systems+Builder;Finance+%7C+Operations+%7C+Cloud;Python+%7C+.NET+%7C+AWS+%7C+AI;Bridging+Enterprise+Systems+with+Applied+AI" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&amp;weight=500&amp;size=23&amp;duration=2800&amp;pause=900&amp;center=true&amp;vCenter=true&amp;width=820&amp;lines=Enterprise+Software+%E2%86%92+Data+%E2%86%92+Applied+AI;Python+%7C+SQL+%7C+.NET+%7C+AWS;Building+Reliable+Systems+for+Real-World+Operations" alt="Enterprise software, data engineering, and applied AI" />
 
-<br>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yifan-wang-862b89390)
-[![Portfolio](https://img.shields.io/badge/Portfolio-frankwyf.github.io-111827?style=for-the-badge&logo=astro&logoColor=white)](https://frankwyf.github.io/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Selected_Work-111827?style=for-the-badge&logo=astro&logoColor=white)](https://frankwyf.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yifan_Wang-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yifan-wang-862b89390)
 
 </div>
 
----
+## About
 
-## About Me
+I am a software engineer at **DENTSU SOKEN SHANGHAI**, working across enterprise applications, Python/SQL data integration, ETL, financial data workflows, and production validation. I am broadening from enterprise software delivery toward **data engineering and applied AI**, with a focus on reliable systems that connect operational data to practical decisions.
 
-I am a software engineer building at the intersection of enterprise systems, operational data, and applied AI.
+I care about deterministic logic, validation, explainability, evaluation, and human oversight—not AI demos that stop before production.
 
-My experience spans C#/.NET application development, Python/SQL data integration, ETL and production validation, semiconductor manufacturing systems, financial workflows, and applied-AI projects. I focus on turning operational requirements and imperfect data into reliable, testable software.
+- Based in Shanghai; open to employer-supported international relocation
+- Chinese (native), English (professional), Japanese (JLPT N2 / business communication)
+- AWS Certified Machine Learning Engineer – Associate, Solutions Architect – Associate, and AI Practitioner
 
-In my current role at DENTSU SOKEN SHANGHAI, I am deliberately broadening from enterprise software delivery toward AI- and data-oriented engineering. I am combining that internal career development with hands-on portfolio work in applied AI, credit data, and reliable operational systems.
-
-I am developing toward Applied AI, Data Engineering, AI integration, backend, and Forward Deployed Engineering roles—especially work that connects customer problems, enterprise data, and production deployment across FinTech, enterprise SaaS, mobility, industrial systems, and other real-world domains.
-
-- Current base: Shanghai; open to employer-supported international relocation
-- Languages: Chinese (native), English (professional), Japanese (JLPT N2 / business communication)
-- Certifications: AWS Machine Learning Engineer – Associate, AWS Solutions Architect – Associate, AWS AI Practitioner
+I am interested in international **Applied AI, Data & AI, Backend, Platform, and Forward Deployed Engineering** roles across enterprise SaaS, FinTech, and industrial systems.
 
 ## Engineering Focus
 
 `Enterprise Software → Data Integration → Data Engineering → Applied AI`
 
-- **Enterprise Engineering:** C#/.NET, Python, Java, system integration, testing
-- **Data Engineering:** SQL, ETL, validation, multithreaded processing, data pipelines
-- **Applied AI:** explainable modeling, grounded retrieval, controlled tools, evaluation
-- **Cloud & Delivery:** AWS, Azure validation, Docker, GitHub Actions, documentation
+- **Enterprise systems:** C#/.NET, Python, Java, system integration, testing, and production support
+- **Data engineering:** SQL, ETL, validation, multithreaded processing, and reproducible pipelines
+- **Applied AI:** explainable modeling, grounded retrieval, controlled tools, evaluation, and human-in-the-loop workflows
+- **Cloud delivery:** AWS, Azure validation, Docker, GitHub Actions, and technical documentation
 
----
-
-## What I Build
-
-I enjoy building software that is:
-
-✔ **Practical** — solves real operational problems  
-✔ **Reliable** — maintainable and production-minded  
-✔ **Scalable** — designed with long-term usability in mind  
-✔ **Intelligent** — enhanced by AI where it creates real value
-
-## Selected Projects
+## Selected Work
 
 ### [AI Revenue & Credit Operations](https://frankwyf.github.io/projects/ai-revenue-credit-operations/)
-Private-source case study for a human-in-the-loop operations platform combining validated data ingestion, deterministic financial logic, grounded retrieval, controlled tools, evaluation, and audit-friendly decisions.
+
+Private-source case study for a human-in-the-loop operations platform combining validated ingestion, deterministic financial logic, grounded retrieval, controlled tools, evaluation, and audit-friendly decisions.
 
 ### [OpenScorecard / Company Credit Score](https://frankwyf.github.io/projects/openscorecard/)
+
 Private-source case study for explainable B2B credit-risk modeling, synthetic portfolio evaluation, leakage controls, calibration, stability analysis, and decision governance.
 
 ### [YOLO Region Mapping](https://github.com/frankwyf/yolo-heatmap)
+
 Region-aware computer-vision analytics with polygon zones, coordinate normalization, and machine-readable event outputs.
 
 ### [Heat Simulation & Optimization](https://github.com/frankwyf/heat_simulation)
+
 Reproducible Python simulation workflows with Streamlit, GA/PSO/SA benchmarks, structured artifacts, tests, CI, and release tooling.
 
 ### [Python Search & Data Tooling](https://github.com/frankwyf/web_crawling)
+
 Crawler, inverted-index search, API, web interface, analytics, exports, logging, and regression tests.
 
-### [Gym Product Modernization](https://github.com/frankwyf/Gym_Product)
-Multi-client business application spanning Spring Boot, Vue, and WeChat Mini Program modules, modernized with tests, CI, environment templates, and build verification.
+More projects and deeper engineering notes are available on my [portfolio](https://frankwyf.github.io/).
 
-### [Qt Responsive Layout](https://github.com/frankwyf/qt-responsive-layout)
-A C++17 responsive-layout engine for Qt Widgets, demonstrating native application architecture and reusable component design.
+Additional public work: [Gym Product Modernization](https://github.com/frankwyf/Gym_Product) · [Qt Responsive Layout](https://github.com/frankwyf/qt-responsive-layout)
 
-My engineering philosophy:
+## Technical Toolkit
 
-> **Technology should not only be innovative — it should be usable, dependable, and capable of creating measurable business impact.**
-
----
-
-## Core Expertise
-
-### Enterprise Engineering
-
-- Enterprise application development
-- .NET Framework / C#
-- System maintenance & enhancement
-- Design → implementation → testing
-- Production support & validation
-
-### Data Engineering
-
-- Python automation
-- SQL Server integration
-- ETL pipelines
-- Data validation & processing
-- Multithreaded engineering
-
-### Applied AI / ML
-
-- Credit scoring models
-- Predictive analytics
-- AI-assisted development workflows
-- Computer vision applications
-- LLM-powered productivity
-
-### Cloud & Infrastructure
-
-- AWS architecture
-- Azure production validation
-- Cloud deployment support
-- Enterprise environment testing
-
-## Technical Stack
-
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,cs,cpp,js,mysql" />
-</p>
-
-**Focus Areas:**  
-Backend Development · Data Processing · Enterprise Systems · Automation
-
----
-
-### Frameworks & Application Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=dotnet,spring,flask,django,nodejs" />
-<img height="48" src="https://cdn.simpleicons.org/wechat/07C160" />
-</p>
-
-**Focus Areas:**  
-Enterprise Applications · Web Systems · API Development · Mini Programs
-
----
-
-### Databases & Data Engineering
-
-<p>
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
-
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
-
-<img width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-</p>
-
-**Focus Areas:**  
-SQL Development · Data Modeling · ETL · Data Integration · Analytics Support
-
----
-
-### Cloud & Engineering Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,git,docker" />
-</p>
-
-**Focus Areas:**  
-Cloud Architecture · Production Validation · Deployment Support
-
----
-
-### AI / Data Engineering
-
-<p>
-
-<img src="https://img.shields.io/badge/Machine_Learning-Applied-orange?style=flat-square" />
-
-<img src="https://img.shields.io/badge/LLM-AI_Assisted-blueviolet?style=flat-square" />
-
-<img src="https://img.shields.io/badge/Computer_Vision-CV-blue?style=flat-square" />
-
-<img src="https://img.shields.io/badge/Industrial_AI-Manufacturing-success?style=flat-square" />
-
-</p>
-
-**Focus Areas:**  
-Applied AI · Predictive Analytics · Intelligent Systems
-
-### Interests & Emerging Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Machine_Learning-Applied-orange?style=for-the-badge" />
-<img src="https://img.shields.io/badge/LLM-AI_Assisted_Development-blueviolet?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Computer_Vision-Interactive_AI-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Data_Engineering-Python_&_SQL-success?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Industrial_AI-Manufacturing-important?style=for-the-badge" />
-</p>
+| Area | Technologies |
+| --- | --- |
+| Languages | Python, C#, Java, C++, JavaScript, SQL |
+| Backend & applications | .NET, Spring Boot, Flask, Django, Node.js, Qt |
+| Data & AI | SQL Server, PostgreSQL, MySQL, SQLite, ETL, ML, computer vision, LLM workflows |
+| Cloud & delivery | AWS, Azure, Docker, Git, GitHub Actions |
 
 ## Certifications
 
-### Cloud & AI Certifications
+### AWS
 
-<a href="https://www.credly.com/badges/05f02bae-6f15-447b-b8bf-e0cce33f3cd9/linked_in_profile">
-<img src="https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
+[![AWS Machine Learning Engineer – Associate](https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/cd7e54df-a341-4691-aaab-d9d2554d5996/linked_in)
+[![AWS Solutions Architect – Associate](https://img.shields.io/badge/AWS-Solutions_Architect_Associate-FF9900?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/05f02bae-6f15-447b-b8bf-e0cce33f3cd9/linked_in_profile)
+[![AWS AI Practitioner](https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=flat-square&logo=amazonaws&logoColor=white)](https://www.credly.com/badges/9e54a74c-ee6a-407b-aad6-c4d19816e394/linked_in_profile)
 
-<a href="https://www.credly.com/badges/9e54a74c-ee6a-407b-aad6-c4d19816e394/linked_in_profile">
-<img src="https://img.shields.io/badge/AWS-AI_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
+<details>
+<summary><strong>Siemens Digital Industries Software credentials</strong></summary>
 
-<a href="https://www.credly.com/badges/cd7e54df-a341-4691-aaab-d9d2554d5996/linked_in">
-<img src="https://img.shields.io/badge/AWS-Machine_Learning_Engineer_Associate-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</a>
+- [Sales Professional 2026](https://www.credly.com/badges/1d5d64ad-e3ed-48fc-90ff-f9c03ee1298f/public_url)
+- [Sales Associate 2026](https://www.credly.com/badges/a8695b16-f689-474f-8644-2492748399bb/public_url)
+- [PreSales Associate 2026](https://www.credly.com/badges/a7aafb74-7015-4d9b-913d-eb2da3a78ddb/public_url)
+- [PreSales Associate 2025](https://www.credly.com/badges/5b1ab65c-9a3b-415d-9ded-c96c5f5ade14/public_url)
 
-### Siemens Digital Industries Software Certifications
+</details>
 
-<a href="https://www.credly.com/badges/1d5d64ad-e3ed-48fc-90ff-f9c03ee1298f/public_url" target="_blank">
-<img src="https://img.shields.io/badge/Siemens-Sales_Professional_2026-009999?style=for-the-badge&logo=siemens&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/badges/a8695b16-f689-474f-8644-2492748399bb/public_url" target="_blank">
-<img src="https://img.shields.io/badge/Siemens-Sales_Associate_2026-008080?style=for-the-badge&logo=siemens&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/badges/a7aafb74-7015-4d9b-913d-eb2da3a78ddb/public_url" target="_blank">
-<img src="https://img.shields.io/badge/Siemens-PreSales_Associate_2026-007777?style=for-the-badge&logo=siemens&logoColor=white" />
-</a>
-
-<a href="https://www.credly.com/badges/5b1ab65c-9a3b-415d-9ded-c96c5f5ade14/public_url" target="_blank">
-<img src="https://img.shields.io/badge/Siemens-PreSales_Associate_2025-006666?style=for-the-badge&logo=siemens&logoColor=white" />
-</a>
-
-
-### Currently Pursuing
-
-📖 PTC Codebeamer Foundations / Presales
-📖 Advanced AI / Industrial AI Engineering
-
-
-## Languages
-
-🇨🇳 Chinese — Native  
-🇬🇧 English — Professional working proficiency  
-🇯🇵 Japanese — Business communication level (JLPT N2)
-
-
-## GitHub Analytics
+---
 
 <div align="center">
 
-<br>
+**Turning software, data, and AI into practical value for real-world operations.**
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=frankwyf&theme=tokyonight&hide_border=true" />
-
-</div>
-
-## Current Focus
-
-Currently exploring and building in:
-
-- Applied AI & Machine Learning
-- AI & Data Engineering
-- Data Engineering & Automation
-- LLM-assisted Development and Evaluation
-- Intelligent Enterprise Systems
-
-## Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Wang_Yifan-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yifan-wang-862b89390)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Read+the+case+studies-111827?style=for-the-badge&logo=astro&logoColor=white)](https://frankwyf.github.io/)
-
-</div>
-
-<div align="center">
-
-### Turning software, data, and AI into practical value for real-world industry.
+[Portfolio](https://frankwyf.github.io/) · [LinkedIn](https://www.linkedin.com/in/yifan-wang-862b89390)
 
 </div>
